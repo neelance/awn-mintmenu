@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-AWN-Type=Applet
+X-AWN-AppletType=Python
+Name=Mint Menu
+Comment=Mint Menu for AWN
+Exec=awn-applet -p %k
+X-AWN-AppletExec=/usr/lib/linuxmint/mintMenu/mintMenuAwn.py
+Icon=distributor-logo
+X-AWN-AppletCategory=Utility

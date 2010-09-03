@@ -1,0 +1,12 @@
+Source: awn-mintmenu
+Section: gnome
+Priority: optional
+Maintainer: Richard Musiol <mail@richard-musiol.de>
+Standards-Version: 3.8.4
+Build-Depends: debhelper (>= 5)
+Homepage: http://github.com/neelance/awn-mintmenu
+
+Package: awn-mintmenu
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: Mint Menu for Avant Window Navigator
